@@ -1,5 +1,5 @@
 <!-- プロフィール README for forest1000 -->
-<h1 align="center">はじめまして！</h1>
+<h1 align="center">ポートフォリオ</h1>
 <p align="center">
   東京科学大学 情報通信系 M1の森川</b> です。<br/>
   <b>Federated Learning × 医療画像</b> を研究テーマに、<b>半教師あり / Active Learning</b> なども色々試してます。
