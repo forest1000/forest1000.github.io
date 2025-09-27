@@ -11,20 +11,14 @@
 今後はNLPにも手を伸ばしたいです。
 
 ## Featured Projects
-<div class="grid cards" markdown>
 
 - **k-Fold FL**  
-  連合学習評価を **k-fold**で行えるようにした。  
-
-  -- Flowerを用いたK-foldの実装に関して情報がなかったため、自分で実装してみました。
-
-  — Stack: PyTorch / Flower  
-
+  連合学習評価を **k-fold** で行えるようにした。Flower を用いた k-fold 実装を自作で整備。  
+  **Stack:** PyTorch / Flower
 
 - **SSL_Seg**  
-  FixMatchをセグメンテーションに対して実装。
-  — Stack: PyTorch / Albumentations / WandB  
-
+  FixMatch をセグメンテーションに実装。  
+  **Stack:** PyTorch / Albumentations / WandB
 </div>
 
 ## 得意分野
