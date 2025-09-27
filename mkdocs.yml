@@ -1,0 +1,19 @@
+site_name: Tenma Morikawa | Portfolio
+site_url: https://forest1000.github.io
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+    - search.suggest
+nav:
+  - Home: index.md
+  - Projects:
+      - k-Fold FL: projects/k-foldfl.md
+      - SSL_Seg: projects/ssl_seg.md
+      - AL_Medical_segmentation: projects/al_medical_segmentation.md
+  - Research: research.md
+  - Notes: notes.md
+repo_url: https://github.com/forest1000/forest1000.github.io
