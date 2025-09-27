@@ -19,12 +19,14 @@
 - **SSL_Seg**  
   FixMatch をセグメンテーションに実装。  
   **Stack:** PyTorch / Albumentations / WandB
-</div>
 
 ## 得意分野
 - **画像解析** : 
 - **Federated learning** : 
 
+<div>
+
 ---
+
 ### Links
 GitHub: [forest1000](https://github.com/forest1000) 
