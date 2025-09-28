@@ -1,5 +1,6 @@
 # Tenma Morikawa (forest1000)
 東京科学大学工学院情報通信系修士１年の森川です
+
 連合学習 / 医療画像 / 半教師あり/ Active learning  
 
 ## これまで
@@ -8,6 +9,7 @@
 
 ## 自己紹介
 現在は連合学習×医療画像を中心に、半教師あり・Active learningなどを学習しています。
+
 今後はNLPにも手を伸ばしたいです。
 
 ## Featured Projects
